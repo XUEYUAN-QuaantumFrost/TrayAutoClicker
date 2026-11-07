@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+
+clicker_config.json
+clicker_log.txt
+
+build/
+dist/
+*.spec
